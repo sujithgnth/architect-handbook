@@ -61,6 +61,7 @@
 - [Frontend](#frontend)
 - [Glossary](#glossary)
 - [Tooling - Language Agnostic](#tooling---language-agnostic)
+- [Codex Skills](#codex-skills)
 - [External References](#external-references)
 - [Z-Index, other repositories](#z-index-other-repositories)
 
@@ -689,6 +690,12 @@ Specifics that should be considered while developing a software solution relying
 
 - [Telepresence](https://telepresence.io): tool that is aiming to make a hybrid local/remote developer workflow easier for Kubernetes users.
 - [Pact](https://pact.io): customer-driven contracts.
+
+## Codex Skills
+
+- [Skill pack entrypoint](SKILL.md)
+- [Visible reusable skill folders](skills/)
+- [Local Codex mirror](.codex/skills/)
 
 ## External References
 
