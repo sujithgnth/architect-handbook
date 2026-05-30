@@ -1,1 +1,21 @@
 .idea
+.DS_Store
+
+# Large/personal intake material kept locally for review, not for normal commits.
+external/screenshots/*
+!external/screenshots/README.md
+external/**/*.pdf
+external/**/*.epub
+external/**/*.jpg
+external/**/*.jpeg
+external/**/*.png
+**/external/**/*.pdf
+**/external/**/*.epub
+**/external/**/*.jpg
+**/external/**/*.jpeg
+**/external/**/*.png
+external/study-list-source/*
+!external/study-list-source/README.md
+!external/study-list-source/source-readme.md
+!external/study-list-source/software-guidelines.md
+external/study-list-source/*-duplicate/

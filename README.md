@@ -45,6 +45,11 @@
   - [Wide-column store](#wide-column-store)
   - [GraphQL](#graphql)
 - [Technology specifics](#technology-specifics)
+- [Languages](#languages)
+- [Coding Practices](#coding-practices)
+- [Interviews](#interviews)
+- [Roadmaps](#roadmaps)
+- [Exercises](#exercises)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
 - [Data Science \& Big Data](#data-science--big-data)
@@ -56,6 +61,7 @@
 - [Frontend](#frontend)
 - [Glossary](#glossary)
 - [Tooling - Language Agnostic](#tooling---language-agnostic)
+- [External References](#external-references)
 - [Z-Index, other repositories](#z-index-other-repositories)
 
 ## General Concerns
@@ -555,8 +561,10 @@ Specifics that should be considered while developing a software solution relying
 - [Go In Practice](https://github.com/herrera-ignacio/go-in-practice)
 - [Java Handbook](https://github.com/herrera-ignacio/java-handbook)
 - [JS Handbook](https://github.com/herrera-ignacio/js-handbook)
-- React
-  - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [JavaScript](languages/javascript/README.md)
+- [TypeScript](languages/typescript/README.md)
+- [React](frontend/react/README.md)
+- [Angular](frontend/angular/README.md)
 - Redux
   - [When and when not to reach for Redux](redux/when)
   - [Redux must know](redux/introduction)
@@ -566,6 +574,41 @@ Specifics that should be considered while developing a software solution relying
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   - [Flux Comparison](redux/flux-comparison)
   - [MVC Comparison](https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html)
+
+## Languages
+
+- [JavaScript](languages/javascript/README.md)
+- [TypeScript](languages/typescript/README.md)
+
+## Coding Practices
+
+- [Overview](coding-practices/README.md)
+- [Clean code](coding-practices/clean-code/README.md)
+- [Testing](coding-practices/testing/README.md)
+- [Debugging](coding-practices/debugging/README.md)
+- [Code review](coding-practices/code-review/README.md)
+- [API design](coding-practices/api-design/README.md)
+- [Git](coding-practices/git/README.md)
+- [Refactoring](coding-practices/refactoring/README.md)
+
+## Interviews
+
+- [Overview](interviews/README.md)
+- [Coding interview approach](interviews/coding-interview/approach.md)
+- [Company preparation](interviews/company-prep/README.md)
+- [Culture fit](interviews/culture-fit/README.md)
+
+## Roadmaps
+
+- [Overview](roadmaps/README.md)
+- [Pending reads](roadmaps/pending-reads.md)
+
+## Exercises
+
+- [Overview](exercises/README.md)
+- [JavaScript](exercises/javascript/README.md)
+- [React](exercises/react/README.md)
+- [Angular](exercises/angular/README.md)
 
 ## Operating Systems
 
@@ -621,9 +664,14 @@ Specifics that should be considered while developing a software solution relying
 
 - [Atomic design](frontend/atomic-design/README.md)
 - [Design system](frontend/design-system/README.md)
+- [React](frontend/react/README.md)
+- [Angular](frontend/angular/README.md)
+- [Browser platform](frontend/browser/README.md)
+- [Frontend performance](frontend/performance/README.md)
 - [Legacy lifecycle of frontend](frontend/legacy-lifecycle/README.md)
 - [Areas of frontend](frontend/areas/README.md)
   - [Backbone goals and OKRs](frontend/backbone-OKRs/README.md)
+- [Client-side storage](frontend/client-side-storage/README.md)
 - [Accessibility testing](frontend/accessibility-testing/README.md)
 
 ## Glossary
@@ -641,6 +689,10 @@ Specifics that should be considered while developing a software solution relying
 
 - [Telepresence](https://telepresence.io): tool that is aiming to make a hybrid local/remote developer workflow easier for Kubernetes users.
 - [Pact](https://pact.io): customer-driven contracts.
+
+## External References
+
+- [External folder policy](external/README.md)
 
 ## Z-Index, other repositories
 

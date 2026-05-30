@@ -1,0 +1,1056 @@
+paste in pin notion notes once done
+
+- https://muratbuffalo.blogspot.com/2024/08/designing-data-intensive-applications.html?ref=dailydev
+- https://mtlynch.io/code-review-love/
+- https://www.producthunt.com/products/practical-ui
+- https://dev.to/gboladetrue/software-engineering-principles-every-frontend-developer-should-know-1ej7
+- https://read.highgrowthengineer.com/p/becoming-a-go-to-person-gets-you
+- 
+- https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023
+- https://andrew-morozw.medium.com/using-getters-and-setters-in-typescript-and-angular-d478829461c8
+- https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023
+- https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee
+- https://medium.com/javarevisited/6-system-design-articles-and-case-studies-for-software-developers-0eec081bc083
+- https://www.learnbydo.ing/courses/angular/ngrx-book/1-the-book
+
+How to archi?
+- https://newsletter.pragmaticengineer.com/p/software-architect-archetypes?utm_source=publication-search
+- https://newsletter.pragmaticengineer.com/p/engineering-career-paths?utm_source=publication-search
+- https://newsletter.pragmaticengineer.com/p/software-architect-archetypes?utm_source=publication-search
+- https://staffeng.com/
+- https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer
+- https://www.pragmaticengineer.com/
+- https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer
+- 
+
+OTHERS
+- https://thenewstack.io/the-anatomy-of-slow-code-reviews/?ref=dailydev
+- https://itnext.io/internal-developer-platforms-a-real-thing-or-just-a-trend-ee9c97870dcc
+- https://www.youtube.com/watch?v=oKvv5FJE17Q&t=1s
+- https://www.youtube.com/watch?v=WqNqeMjd28I&t=2s
+- https://frontendatscale.com/courses/frontend-architecture/foundations/introduction?confirmed=true
+- https://levelup.gitconnected.com/system-design-interview-design-twitter-x-695cd800de51
+- https://www.youtube.com/watch?v=UbYg6NK03aQ (2024 best stack)
+- https://blog.bytebytego.com/p/millions-of-requests-per-hour-soundclouds?ref=dailydev
+- https://www.youtube.com/watch?v=heQbbrSu8LM
+- https://blog.bitsrc.io/micro-frontend-architecture-a-guide-28f78ce825ad
+- https://dev.to/arindam_1729/i-built-an-event-scheduler-in-nodejs-using-google-calendar-api-4c5b?ref=dailydev
+- https://medium.com/javarevisited/how-to-design-twitter-in-a-system-design-interview-98983c649cc0
+- https://itnext.io/frontend-performance-love-story-ce92302fea5f
+- https://www.youtube.com/watch?v=PZVCSQ1yjq4&t=15s
+- https://newsletter.getdx.com/p/reducing-code-review-time-at-google?ref=dailydev
+- https://javascript.plainenglish.io/understanding-when-to-use-cache-your-apis-5566507b11bf
+- https://mysqlexplain.com/?ref=dailydev
+- https://towardsdatascience.com/system-design-load-balancer-9a3582176f9b
+- https://newsletter.systemdesigncodex.com/p/how-reddit-serves-100k-metadata-requests?ref=dailydev
+- https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d
+- https://selfteachme.hashnode.dev/the-hard-parts-of-building-an-application-made-easy-with-supabase?ref=dailydev
+- https://www.scalekit.com/blog/harnessing-single-sign-on-sso-for-b2b-authentication
+- https://web.dev/blog/how-to-use-container-queries-now?ref=dailydev
+- https://thenewstack.io/the-anatomy-of-slow-code-reviews/?ref=dailydev&utm_referrer=https%3A%2F%2Fapi.daily.dev%2F
+- https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/?ref=dailydev
+- https://blog.bytebytego.com/p/how-stripe-scaled-to-5-million-database?ref=dailydev
+- https://medium.com/@abhinavcv007/behind-the-scenes-how-jiocinema-seamlessly-streams-ipl-matches-to-20-million-fans-293967729734
+- https://blog.jiocinema.com/behind-the-stream-jiocinemas-workflow-for-major-events/
+- https://newsletter.systemdesigncodex.com/p/service-communication-patterns?ref=dailydev
+- https://javascript.plainenglish.io/10-cutting-edge-web-dev-resources-you-should-be-using-now-b8853f383852
+= https://blog.quastor.org/p/bookingcom-scaled-customer-review-system?ref=dailydev
+- https://packagemain.tech/p/protobuf-grpc-vs-json-http?ref=dailydev
+- https://kaplayjs.com/#about
+- https://medium.com/javarevisited/how-to-prepare-for-coding-interviews-in-2024-with-resources-3135861186bf
+- Kafka: https://kafka.apache.org/documentation/
+- Pattern DEv: https://www.patterns.dev/?ref=dailydev
+- Event-Driven Architecture (EDA) vs Request/Response (RR) (https://www.youtube.com/watch?v=7fkS-18KBlw&t=17s) 
+- Nestjs micorservices: https://www.youtube.com/watch?v=C250DCwS81Q
+- https://newsletter.systemdesigncodex.com/p/8-strategies-for-reducing-latency?ref=dailydev
+- https://blog.bytebytego.com/p/ep119-what-do-amazon-netflix-and?ref=dailydev
+- https://lobste.rs/s/deads6/who_s_hiring_q3y2024?ref=dailydev
+- https://www.builder.io/blog/challenges-of-design-systems?ref=dailydev
+- https://blog.bytebytego.com/p/ep116-11-steps-to-go-from-junior?ref=dailydev
+- https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_tune-your-settings
+- https://analyticsindiamag.com/stop-wasting-time-on-leetcode-try-code-reviews-and-real-world-coding/
+- https://lokki.framer.website/
+- https://newsletter.systemdesign.one/p/instagram-infrastructure?ref=dailydev
+- https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c
+- https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6
+- https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?ref=dailydev
+https://levelup.gitconnected.com/system-design-interview-design-whatsapp-779fa385ef08
+https://developer.chrome.com/blog/maximum-idb-performance-with-storage-buckets?ref=dailydev
+https://blog.bytebytego.com/p/ep115-life-is-short-use-dev-tools?ref=dailydev
+https://glitch.com/
+- Main Resources to study
+		- https://marketplace.visualstudio.com/items?itemName=JohannesRudolph.file-ext-switcher
+		- https://www.greatfrontend.com/questions/javascript/get?list=three-months
+		- https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users +
+		- https://www.totaltypescript.com/purchases/673a57d9-e8bb-4044-896c-332800565f83
+		- https://bytebytego.com/courses/system-design-interview/s3-like-object-storage
+		- https://elevait.atlassian.net/wiki/spaces/OTS/pages/25166545184/RabbitMQ
+		- https://www.mongodb.com/docs/manual/crud
+		- https://www.greatfrontend.com/questions/javascript/get?list=three-months
+	- Read on Git Docs
+		- https://git-scm.com/docs/git-reflog
+	- https://roadmap.sh/
+	- https://joi.dev/
+ - https://nordicapis.com/introduction-to-typespec/?ref=dailydev
+https://dev.to/nickytonline/tools-that-keep-me-productive-1no5
+https://medium.com/@AmyScript/setting-up-two-applications-in-an-nx-monorepo-4bba3fccb01d
+https://www.producthunt.com/products/tailscan
+https://thetshaped.dev/p/6-tools-to-ease-software-engineer-life?ref=dailydev
+https://medium.com/@younusraza909/docker-cheatsheet-thanks-me-later-9e74da8e138d
+https://github.com/refined-github/refined-github/issues/3543
+https://elevait.atlassian.net/wiki/spaces/OTS/pages/25166545184/RabbitMQ
+https://elevait.atlassian.net/wiki/spaces/OTS/pages/25106677780/Metadata+aggregation+in+MongoDB
+- schedule metadata updates into debounced queue?
+https://www.mongodb.com/docs/
+https://elevait.atlassian.net/wiki/spaces/OTS/pages/25733365769/Extending+the+metadata+service
+https://elevait.atlassian.net/wiki/spaces/OTS/pages/25198002223/Optimizations+for+metadata+updates
+https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/
+https://www.swarmia.com/blog/why-small-pull-requests-are-better/
+https://elevait.atlassian.net/wiki/spaces/OTS/pages/25198002223/Optimizations+for+metadata+updates
+https://elevait.atlassian.net/browse/WA-2793?focusedCommentId=38967&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-38967
+https://bitbucket.org/elevait/aicosy/pull-requests/3044
+https://lanes-germany.com/en/dentists/
+https://www.alpha-heidelberg.de/en/language-courses/fachsprachpruefung-preparation/
+https://www.zaekmv.de/zahnaerzte/mitgliedschaft
+https://approbations.info/fachsprachpruefung-fuer-zahnaerzte/
+https://www.medisim.com/medizinische-fortbildung-fsp-international-zahnmedizin.html
+https://lzk-bw.de/zahnaerzte/auslaendische-berufsausbildung/fachsprachenpruefung
+https://www.brmi-akademie.de/zahnmedizin
+https://www.bzaek.de/english.html
+https://www.zahnaerztekammernordrhein.de/bereich/zahnaerzte/berufsanerkennung/fachsprachpruefung/
+https://www.meineagentur24.de/qualifizierungsmassnahme_zahnarzt_arbeitgeber
+https://deutschtraining.org/deutschkurs-online/deutsch-fuer-zahnaerzte/
+https://german-course-germany.de/en/medical-german-courses/fsp-preparation/
+https://akadre.de/EN/fuer-medizinische-fachkraefte/dentists/fsp-preparation-german-c1-dentistry-/
+https://derdiedaswelt.com/de/fsp-courses/
+ - https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g?ref=dailydev
+	- https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8?ref=dailydev
+	- https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
+	- https://frontendatscale.com/workshop/
+	- https://frontendmasters.com/guides/front-end-handbook/2024/?utm_source=linkedin&utm_medium=blog&utm_campaign=boost
+	- https://free-for.dev/#/?id=ci-and-cd
+	- https://blog.developer.atlassian.com/
+	- https://medium.com/airbnb-engineering
+	- https://dev.to/somadevtoo/5-skills-programmers-and-developers-should-learn-in-2024-3bmp
+	- https://www.docker.com/blog/
+	- https://instagram-engineering.com/
+	- https://engineering.linkedin.com/blog
+	- https://stripe.com/blog/engineering
+	- https://engineeringblog.yelp.com/
+	- https://yahooeng.tumblr.com/
+	- https://www.uber.com/en-DE/blog/engineering/
+	- https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/how-we-scaled-reads-on-the-twitter-users-database
+- User interface
+	- https://coyleandrew.medium.com/building-a-better-user-interface-system-6f5a24d1b505
+- Top reads
+	- https://github.com/sujithnath/tool/tree/main/db
+	- https://www.designgurus.io/blog/the-roadmap-to-clearing-technical-interview-in-2024?ref=dailydev
+	- https://netbasal.com/creating-custom-operators-in-rxjs-32f052d69457
+	- https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non?ref=dailydev
+	- https://www.youtube.com/@HiteshChoudharydotcom
+	- https://www.youtube.com/@jherr/videos
+	- https://www.youtube.com/@hamedbahram
+	- https://www.youtube.com/@joshtriedcoding/videos
+	- https://www.youtube.com/watch?v=zlX0lrX2oLA
+
+
+- Other tech reads
+	- https://css-irl.info/anchor-positioning-and-the-popover-api/?ref=dailydev
+	- https://www.producthunt.com/products/jslog#jslog
+	- https://developer.chrome.com/blog/new-in-devtools-125?hl=en&ref=dailydev
+	- https://dev.to/somadevtoo/5-skills-programmers-and-developers-should-learn-in-2024-3bmp
+	- https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/?utm_source=tldrfounders
+	- https://medium.com/@nafiu.dev/building-an-advanced-backend-api-from-scratch-using-node-js-f26ed5c7092c
+	- https://medium.com/deno-the-complete-reference/node-js-vs-rust-performance-comparison-for-hello-world-case-2b548fb77c8c
+	- https://itnext.io/css-media-queries-in-angular-directive-yep-you-heard-it-right-ef2ecf1b5088
+	- https://github.com/4gray?tab=repositories
+	- https://netflixtechblog.com/announcing-sleepy-puppy-cross-site-scripting-payload-management-for-web-application-security-d32e62d72e29
+	- https://netflixtechblog.com/the-netflix-signup-flow-our-journey-to-a-responsive-design-82977a81c767
+	- https://netflixtechblog.com/html5-video-at-netflix-721d1f143979
+	- https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea
+	- https://netflixtechblog.com/delivering-meaning-with-previews-on-web-3cedc0341b9e
+	- https://netflixtechblog.com/modernizing-the-web-playback-ui-1ad2f184a5a0
+	- https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers
+	- https://systemdesign.one/slack-architecture/
+	- https://github.com/sujithnath/tool/tree/main/db
+	- https://netflixtechblog.com/html5-video-in-ie-11-on-windows-8-1-d3a1d53654f1
+	- https://garden.bradwoods.io/
+	- https://kaushaldhakal40.medium.com/state-management-in-micro-frontend-architectures-23d6f827c918
+	- https://dev.to/kcdchennai/how-jwt-json-web-token-authentication-works-21e7#:~:text=Authentication%20server%20verifies%20the%20credentials,the%20secret%20salt%2F%20public%20key.
+	- https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/
+	- https://www.arbeitnow.com/jobs/developer
+	- https://github.com/greatfrontend/awesome-front-end-system-design
+	- https://www.youtube.com/watch?app=desktop&v=ViVa5JPGrf4&feature=youtu.be&ab_channel=JackHerrington
+	- https://addyosmani.com/blog/boring-architecture/?
+	- https://www.fabiobiondi.dev/video-courses/next-fundamentals
+	- https://www.milanjovanovic.tech/
+	- https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?gi=ee055181a885
+	- https://bereitschaftspraxen.116117.de/#/
+	- https://thenewstack.io/create-a-development-environment-in-docker-desktop/
+	- https://www.theverge.com/2023/7/13/23794189/twitter-blue-monetization-ad-revenue-sharing-payments
+	- https://www.patterns.dev/posts#design-patterns
+	- https://en.fahrschule-drivex.com/fahrlehrer-werden-voraussetzungen
+	- https://github.com/goldbergyoni/nodebestpractices
+	- https://uxplanet.org/top-5-design-systems-that-streamline-design-process-8a2bc8c406cf
+	- https://epicreact.dev/
+	- https://visitsaxony.com/event/canaletto-the-dresden-city-festival
+	- https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3
+	- https://github.com/ishwarrimal/frontend-interview-preps/
+	- https://x-team.com/blog/ultimate-linkedin-guide-for-engineers/?utm_source=x-team-website&utm_campaign=linkedin-profile-guide-2023&utm_medium=blog
+	- https://addyo.substack.com/p/first-do-it-then-do-it-right-then
+	- https://x-team.com/blog/ultimate-linkedin-guide-for-engineers/?utm_source=x-team-website&utm_campaign=linkedin-profile-guide-2023&utm_medium=blog
+	- https://github.com/microsoft/TypeScript/pull/55015
+	- https://addyosmani.com/blog/good-code/
+	- https://github.com/ashishps1/awesome-low-level-design
+	- https://handbookgermany.de/en/certifiedcopies
+	- https://stylexjs.com/docs/learn/
+	- https://github.com/greatfrontend/awesome-front-end-system-design
+	- https://dev.to/madza/24-open-source-projects-for-developers-in-2023-391l
+	- https://silicon-saxony.de/unsere-mitglieder/mitglied-werden/
+	- https://learnersbucket.com/javascript-sde-cheat-sheet/#javascript-fundamentals
+	- https://new.computer/
+	- https://www.pronextjs.dev/articles
+	- https://blog.angular.io/introducing-angular-v17-4d7033312e4b
+	- https://sadservers.com/scenarios
+	- https://frontendmasters.com/courses/tour-js-patterns/?utm_source=linkedin&utm_medium=social&utm_campaign=hallielayers
+	- https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html?m=1
+	- https://jaynil-gaglani.hashnode.dev/frontend-interview-experience-at-salesforce
+	- https://github.com/greatfrontend/awesome-front-end-system-design
+	- https://github.com/donnemartin/system-design-primer
+	- https://www.youtube.com/watch?app=desktop&v=-wL0zozGPuQ&feature=youtu.be
+	- https://netflixtechblog.com/curbing-connection-churn-in-zuul-2feb273a3598
+	- https://www.youtube.com/@andrew-burgess/videos
+	- https://www.youtube.com/@AsliEngineering/videos
+	- https://github.com/yangshun/tech-interview-handbook
+	- https://github.com/getify/You-Dont-Know-JS
+	- https://github.com/papers-we-love/papers-we-love
+	- https://github.com/kamranahmedse/developer-roadmap
+	- https://github.com/freeCodeCamp/freeCodeCamp
+	- https://github.com/EbookFoundation/free-programming-books
+	- https://github.com/microsoft/Web-Dev-For-Beginners
+	- https://vercel.com/blog/how-react-18-improves-application-performance#main-thread-and-long-tasks
+	- https://kushagra.dev/blog/how-to-learn-master-css/
+	- https://www.youtube.com/watch?app=desktop&v=AjzAZtzzFik&ab_channel=CodingMastery
+	- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries
+	- https://greenonsoftware.com/articles/seo/improving-seo-with-ahrefs/
+	- https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+	- https://github.com/devkodeio/the-dom-challenge
+	- https://www.youtube.com/@basarat
+	- https://dev.to/lyndsiwilliams/real-dom-virtual-dom-shadow-dom-whats-the-difference-32ni
+	- https://www.fullstack.cafe/blog/web-security-interview-questions
+	- https://vercel.com/blog/how-react-18-improves-application-performance
+	- https://greenonsoftware.com/articles/libraries/comparing-redux-with-zustand-for-state-management-in-react/
+	- https://www.smashingmagazine.com/2023/06/perfect-design-process/
+	- https://codingchallenges.substack.com/
+	- https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/
+	- https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/testing
+	- https://alexkondov.com/tao-of-react/#favor-functional-components
+
+# Study and Implementation Guide
+
+## Managerial Skills
+- Managerial Practice
+- [Office Key Sign-In](https://elevait.atlassian.net/wiki/spaces/OTS/pages/7708377076/Office+Management)
+- [Key Insurance](https://elevait.atlassian.net/wiki/spaces/OTS/pages/7708377076/Office+Management)
+
+Software Guidelines
+https://github.com/sujithnath/study-list-learn-read-tech-guidlines/blob/main/software-guidelines.md
+
+## Frontend skills
+- [React]
+- [Angular]
+  - [Revise](https://angular.io/guide/lifecycle-hooks)
+- [NextJS]
+- [RxJS]
+  - [RxJS Documentation](https://rxjs.dev/api)
+- [Redux]
+- [Websocket]
+- [ES6 Class Mocks](https://jestjs.io/docs/es6-class-mocks)
+- [Design System]
+  - [Resources and Tools](https://thedesignsystem.guide/resources#tools)
+  - [Microsoft TypeChat](https://github.com/microsoft/TypeChat)
+- [Monorepo]
+  - [Understanding Monorepos](https://monorepo.tools/?ref=dailydev#understanding-monorepos)
+  - [Misconceptions About Monorepos](https://blog.nrwl.io/misconceptions-about-monorepos-monorepo-monolith-df1250d4b03c)
+  - [Mono Repo vs Multi vs Micro](https://hackernoon.com/mono-repo-vs-multi-repo-vs-hybrid-whats-the-right-approach-dv1a3ugn)
+ 
+## Backend
+- [Understanding NestJS Architecture](https://awstip.com/understanding-nestjs-architecture-f257d054211d)
+- Mongo and SQL Query Practice
+- System Design Practice
+- Logs and Other Utils Practice and Read
+- Mongoose/Mongodb Query Options (e.g. Select, Lean, Populate, Aggregate, ...)
+- Jenkins
+- Docker Documentation and Compare with the Company
+- Best Code Practices
+- - **Study List:**
+- [Roadmap](https://roadmap.sh/)
+- [Read-DX](https://read-dx.addy.ie/toc)
+- Improve Resume and Other Details
+- Improve Website
+- Improve LinkedIn
+- Skill Improvement
+- Solve One Bytebytego Problem
+- Start Reading Documentations
+- [Cypress API](https://docs.cypress.io/api/commands/as)
+- Leetcode Questions
+- System Design Question
+- [News Feed Facebook](https://www.greatfrontend.com/questions/system-design/news-feed-facebook)
+- Bytebytego - YouTube
+- [Angular Documentation](https://angular.io/guide/lifecycle-hooks)
+- [React + Nest](https://nextjs.org/docs)
+- Docker
+- Work Related Study/Read
+- Backend
+- FED
+- Angular Documentation
+- [Angular Lifecycle Hooks](https://angular.io/guide/lifecycle-hooks)
+- [Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
+- BED
+- [Nest JS Documentation](https://nextjs.org/docs)
+- [MongoDB Storing Large Objects and Files](https://www.mongodb.com/developer/products/mongodb/storing-large-objects-and-files/)
+- [Mongo and GraphDB Documentation](https://www.mongodb.com/docs/)
+- [Triple Store](https://yasgui.triply.cc/)
+- [GraphDB](https://www.ontotext.com/products/graphdb/)
+- Jenkins
+- Docker Documentation
+- Best Code Practices
+- CI/CD Pipeline
+- RDF + SPARQL
+- [W3 RDF](https://www.w3.org/RDF/)
+- [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+- React/NextJS Documentation
+- **Future:**
+- Mongo and SQL Query Practice
+- System Design Practice
+- Managerial Practice
+- Logs and Other Utils Practice and Read
+- New Tech
+- CI/CD Pipeline
+- - **Core Stuff:**
+- [Multi-User Handling](https://elevait.atlassian.net/wiki/spaces/OTS/pages/25122603068/Multi-user+handling)
+- **Revise Everything from Here:**
+- [Bonus: Deploy Your Apps with Docker and Docker Compose](https://elevait.atlassian.net/wiki/spaces/OTS/pages/25106579658/Bonus+Deploy+your+apps+with+docker+and+docker-compose)
+- **Mono Repo:**
+- [Understanding Monorepos](https://monorepo.tools/?ref=dailydev#understanding-monorepos)
+- [Misconceptions About Monorepos](https://blog.nrwl.io/misconceptions-about-monorepos-monorepo-monolith-df1250d4b03c)
+- **Angular:**
+- Doubts
+- NRGX
+- RXJS
+- Read Documentation
+- Best Practices
+- Watch Video
+- How it is Utilized within Application
+- **Docker:**
+- Read Documentation
+- [Docker Documentation](https://docs.docker.com/desktop/use-desktop/container/)
+- [Docker](https://elevait.atlassian.net/wiki/spaces/OTS/pages/25086558731/Docker)
+- Best Practices
+- Watch Video
+### NxJS
+- [Nx Module Workspace](https://www.youtube.com/watch?v=OQ-Zc5tcxJE&t=64s&ab_channel=Nx-Smart%2CFast%2CExtensible)
+
+### Jenkins
+- [Jenkins CI/CD Pipeline](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)
+
+### Message Queue
+- [My Recommended Materials for Message Queue](https://blog.bytebytego.com/p/ep77-my-recommended-materials-for?ref=dailydev)
+- [How to Choose a Message Queue](https://blog.bytebytego.com/p/how-to-choose-a-message-queue-kafka)
+- [Why Do We Need a Message Queue](https://blog.bytebytego.com/p/why-do-we-need-a-message-queue)
+
+### Docker
+- [Docker Desktop](https://docs.docker.com/desktop/use-desktop/container/#integrated-terminal)
+- [Compose File](https://docs.docker.com/compose/compose-file/)
+
+### RDF - SPARQL
+- [RDF](https://www.w3.org/RDF/)
+- [GraphDB](https://www.ontotext.com/products/graphdb/)
+- [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+- [SHACL](https://www.w3.org/TR/shacl/)
+- [Virtuoso](https://virtuoso.openlinksw.com/)
+### Docker
+- [Docker Documentation](https://docs.docker.com/engine/)
+- [Best Practices](https://elevait.atlassian.net/wiki/spaces/OTS/pages/25086558731/Docker)
+- How it is Utilized within Application
+- RDF + SPARQL
+- [W3 RDF](https://www.w3.org/RDF/)
+- [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+- **Graph Database Related Things:**
+- RDF in General
+- [RDF](https://www.w3.org/RDF/)
+- SPARQL
+- [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+- Shacl
+- [SHACL](https://www.w3.org/TR/shacl/)
+- Different Graph Databases Like GraphDB
+- [GraphDB](https://www.ontotext.com/products/graphdb/)
+- Virtuoso
+- [Virtuoso](https://virtuoso.openlinksw.com/)
+- Unread
+- [Nest JS Documentation](https://nextjs.org/docs)
+- [Storing Large Objects and Files](https://www.mongodb.com/developer/products/mongodb/storing-large-objects-and-files/)
+- [Mongo and GraphDB Documentation](https://www.mongodb.com/docs/)
+- [Triple Store](https://yasgui.triply.cc/)
+
+## NodeJS Weekend
+- [Watch Video of Erick Wendel](https://www.youtube.com/watch?v=EexM7EL9Blk&ab_channel=ErickWendel)
+- **Micro Frontends:**
+- [Watch to Know What Is It?](https://www.youtube.com/watch?v=lKKsjpH09dU&ab_channel=freeCodeCamp.org)
+- [React Walkthrough](https://www.youtube.com/watch?v=Wfj4NoLj1Ns&ab_channel=JSer)
+- **Machine Coding Round:**
+- Theory
+  - Build Application + TS + Best Practices
+- Build 2 Applications
+  - One with Next
+  - One with React
+- **New Techs [Backend and Frontend]:**
+  - Build New Applications
+  - React Native
+  - Vue.js
+  - NodeJS
+    - Theory
+    - Build Application + TS + Best Practices
+- **Tools:**
+  - Micro Frontend
+  - CI/CD Pipeline
+  - Docker etc.
+- **Weekend:**
+  - System Design or S/M Design and Machine Coding...
+  - Watch Chirag Videos
+    - [Chirag Videos](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+    - [Medhat Blog](https://medhat.dev/blog/cracking-frontend-system-design-interview/)
+    - [Frontend System Design](https://www.youtube.com/playlist?list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT)
+    - [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
+- **Machine Coding Round Revision:**
+  - JS + Performance + Machine Coding Round Revision
+- **System Design:**
+  - Iframe
+  - Web Components
+  - React Module Federation
+  - Micro Apps/Route Base
+    - [GKCS](https://www.youtube.com/@gkcs)
+    - [ReactNYC](https://www.youtube.com/watch?v=o8THlN8hgcw&list=PLG7HKKbpE8RINBexLm8zmniqvXoxS7eqv&ab_channel=ReactNYC)
+  - How Did the Components Get Shared Between Items
+- **Performance Revision:**
+  - Do Machine Coding Rounds
+  - Check Notes
+  - Covers Topics Like Performance + Micro Frontend + Pipelines + Docker/Kubernetes + Hosting and Other Miscellaneous During Weekend
+  - NodeJS Keep Studying During Weekend 1 Day
+
+## CI/CD Stuff:
+- Docker and Docker Compose
+- Jenkins
+- Bitbucket Pipelines
+
+## Security
+
+## Node JS
+- [Watch Video of Erick Wendel](https://www.youtube.com/watch?v=EexM7EL9Blk&ab_channel=ErickWendel)
+- **Micro Frontends:**
+  - [Watch to Know What Is It?](https://www.youtube.com/watch?v=lKKsjpH09dU&ab_channel=freeCodeCamp.org)
+  - [React Walkthrough](https://www.youtube.com/watch?v=Wfj4NoLj1Ns&ab_channel=JSer)
+
+ 
+## Others
+- **Envs:**
+  - [The Death of the Env File](https://medium.com/@tony.infisical/the-death-of-the-env-file-6d65bfc6ac5e)
+- **Beautify Your GitHub Profile:**
+  - [Beautify Your GitHub Profile Like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
+- **Passive Incomes:**
+  - [Aurelius Tjin](https://www.youtube.com/watch?v=jdkdo9pPAzo&ab_channel=AureliusTjin)
+  - [Peter Elbaum](https://www.youtube.com/watch?v=6CYTUub7omM&ab_channel=PeterElbaum)
+- **SVG:**
+  - [Solving a Curved Programming Challenge](https://hackernoon.com/solving-a-curved-programming-challenge-with-svg-gradients?source=rss)
+  - [SVG Paths Cursors](https://www.nan.fyi/svg-paths/cursors)
+- **SSH:**
+  - [SSH](https://aws.plainenglish.io/introducing-the-border0-client-portal-1dbbcf63276b)
+  - [All Your SSH and Database Servers](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
+- **NodeJS:**
+  - [NodeJS Development](https://amplication.com/blog/nodejs-development-all-you-need-to-know)
+- **Headless CMS:**
+  - [Visual Editing CMS](https://www.builder.io/blog/visual-editing-cms)
+- **CPU:**
+  - [The Basics](https://cpu.land/the-basics)
+- **How to Build a Good Workflow:**
+  - [Reflective Goal Setting](https://newsletter.abinoda.com/p/reflective-goal-setting)
+- **Track UI Bugs:**
+  - [Replay](https://www.replay.io/)
+- **NodeJS:**
+  - [NodeJS](https://www.youtube.com/watch?v=bRZTvCwcp20&list=PL5Lsd0YA4OMGN86vWiW7O52izu-cTxcS3&ab_channel=SoftwareDeveloperDiaries)
+- **Burnout:**
+  - [Burnout](https://hackernoon.com/burnout-recognizing-signs-and-taking-action?source=rss)
+  - [Avoid Burnout](https://www.youtube.com/watch?v=5m7Al81Um88&ab_channel=JackHerrington)
+  - [Avoiding Burnout for Remote Teams](https://www.thisdot.co/blog/avoiding-burnout-for-remote-teams-a-software-engineers-guide/)
+- **Astro:**
+  - [Astro](https://www.youtube.com/watch?v=BoeZqPaYw9s&ab_channel=JamesQQuick)
+
+## Interview Prep
+- **29th May - 30th June:**
+  - Performance
+- **31st May - 1st June:**
+  - S/M Design + Tailwind
+  - How the Entire System Works
+- **2nd June:**
+  - Design Pattern
+  - [Singleton Pattern](https://www.patterns.dev/posts/singleton-pattern)
+  - Write Along with Testing as Well
+- **3rd June - 8th June:**
+  - Start JS
+  - Arrange JS and Interview Notes
+  - Decide What to Study With
+  - Code
+  - Solve Questions from the Links
+    - Even from the GitHub
+  - Theory
+  - Cover from Akshay Sini Videos
+  - Then from There On You Will Get Topics, Try to Code and Learn as Well
+  - Contact Dhurbesh and Shubam
+  - Arrange Notes from Mobile
+  - Clear the Notes
+  - Get the Interview Note
+  - Finish Off the Resume by Tuesday
+  - Edit Resume
+  - Create Cover Letter
+  - Create Template for New Jobs
+  - List Down Companies
+  - Sort Out Screenshot and Downloads in Files
+  - Sort the Note
+  - Read Pinned Notes and Gather Useful Info
+  - Storybook
+- **9-11:**
+  - Recover
+- **12-24:**
+  - Start JS Along with Leetcode
+  - Arrange Items How to Learn
+  - Check the Intensity of the Knowledge
+  - Cover / Understand the Basics of JS Like Promises, Closures etc.
+  - Start Everything from Scratch
+  - Revise Algo Basics
+  - Do Coding Tasks Related with JS and Stuff
+- **25th June - 28th June:**
+  - Covered Basics of Algo
+  - Started Solving JS Questions
+- **29th June - 16th July:**
+  - Start and Finish JS Core + Theory
+  - Start and Continue Algo with Basics and Covering Leetcode Easy + Medium
+- **17th July - 23rd July:**
+  - React + NextJS Documentation in Depth for Interviews + New Techs Like Server Components
+  - Next 13 Adam Video + React 13 New Tech Video
+  - Build Application with TS + Testing + Pipeline + Docker etc.
+  - React and Nextjs 13 Theory
+  - Source Code Walkthrough
+  - Documentation
+  - Best Practices Latest [Jack]
+  - Apply for Interviews
+  - Start Applying for Interviews
+- **24th July - 6th New Job Preparations:**
+  - New Job Preparations
+  - Parallel 1
+    - [20 - 21] NestJS
+    - [19 - 20] NestJS
+  - **Time:**
+    - 6.30 - 1pm
+    - Read the Documentation
+    - Best Practices
+    - From Others GitHub
+    - Scaling Nest JS and Performance Optimization
+  - [22 - 23] MongoDB and Mongoose (2 / 3 days)
+    - Revise Mongo and Go Through Mongo Documentation
+    - Mongoose/Mongodb Query Options (e.g. Select, Lean, Populate, Aggregate, ...)
+    - Go Through Mongoose
+  - [24] Docker and Other Systems
+  - Parallel (4 days)
+    - Docker and Docker Compose and Kubernetes
+  - [25 - 26 - 27 - 28] Angular (3 / 4 days)
+    - Angular + Angular TS [2 days]
+      - [Advanced TypeScript Techniques](https://asimzaidi.medium.com/advanced-typescript-techniques-for-senior-react-developers-558430593e1f)
+      - [TypeScript Interview](https://medium.com/@maksim_smagin/how-good-is-your-typescript-interview-with-just-3-questions-cecdce5ce4d4)
+    - RXJS [2 days]
+    - NXJS [2 days]
+    - Later
+      - Other Examples
+      - Best Practices from Others GitHub
+      - How to Scale?
+      - Best Practices
+      - Performance
+      - How to Measure Performance
+      - RXJS Commands
+      - [RXJS Documentation](https://rxjs.dev/api)
+  - [29] Testing (3 days)
+    - Mastering Testing
+      - [Mastering Unit Tests](https://ardalis.com/mastering-unit-tests-dotnet-best-practices-naming-conventions/#:~:text=Unit%20tests%20should%20run%20independently,re%20also%20slower%20to%20run.)
+    - Good Code Commit and PR
+    - How to Write a Good Commit
+    - Good PR Review
+    - Good Description
+    - How to Create a Good Ticket
+    - Performance
+      - [Unlighthouse](https://unlighthouse.dev/)
+      - [Testing Applications with Cypress](https://www.getxray.app/blog/testing-applications-with-cypress-xray)
+  - Parallel 2
+    - **[19 - 25] Graph Database Related Things:**
+      - RDF in General
+        - [RDF](https://www.w3.org/RDF/)
+      - SPARQL
+        - [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+      - Shacl
+        - [SHACL](https://www.w3.org/TR/shacl/)
+      - Different Graph Databases Like GraphDB
+        - [GraphDB](https://www.ontotext.com/products/graphdb/)
+      - Virtuoso
+        - [Virtuoso](https://virtuoso.openlinksw.com/)
+    - [26] Jenkins (.5)
+      - Small Video for the Same
+      - Learn How to Connect and Deploy a Small App
+    - [27 - 30] Bitbucket Pipelines and Entire CI-CD Pipeline
+      - Small Video for the Same
+      - How to Configure Pipelines with a Dummy CICD
+    - Saved Notes and Items
+    - SSH
+      - [SSH](https://aws.plainenglish.io/introducing-the-border0-client-portal-1dbbcf63276b)
+      - [All Your SSH and Database Servers](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
+    - NodeJS
+      - [NodeJS Development](https://amplication.com/blog/nodejs-development-all-you-need-to-know)
+      - [YouTube](https://www.youtube.com/watch?v=bRZTvCwcp20&list=PL5Lsd0YA4OMGN86vWiW7O52izu-cTxcS3&ab_channel=SoftwareDeveloperDiaries)
+    - CSS
+      - Revise New Items
+      - Container
+        - [Container](https://www.youtube.com/watch?v=ypN-Uwshc5M&list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv&index=19&t=1s&ab_channel=JackHerrington)
+      - Grid
+        - [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-introduction)
+    - NX Module Workspace [Just Know What Is It]
+      - [Nx Module Workspace](https://www.youtube.com/watch?v=OQ-Zc5tcxJE&t=64s&ab_channel=Nx-Smart%2CFast%2CExtensible)
+    - Pair Programming
+      - [Pair Programming](https://www.youtube.com/watch?v=1Rj_evBuLi4&ab_channel=Telusko)
+      - [YouTube](https://www.youtube.com/watch?v=dwUSOq-O4KU&ab_channel=PeterElbaum)
+    - Agile Methodology
+      - [Agile Methodology](https://www.youtube.com/watch?v=aKf0Qkp14qQ&ab_channel=Intellipaat)
+      - [Scrum](https://www.youtube.com/watch?v=NpCEjtKAa20&ab_channel=Telusko)
+      - [Telusko](https://www.youtube.com/watch?v=oTZd2vo3FQU&ab_channel=Telusko)
+      - [Scrum](https://www.youtube.com/watch?v=bLZ9MNwV2vE&ab_channel=KandisPorter)
+    - Middleware Service
+      - Built New APIs Using Node with Express by Integrating with Microservices Services
+    - System Design
+      - [Building a Design System with Tailwind CSS](https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba)
+    - Network + Auth + Security
+      - Browser (Authentication (JSW + Webtokens)
+        - [Authentication](https://www.youtube.com/watch?v=FVmxtmzyrSw&ab_channel=CoderOne)
+        - [CoderOne](https://www.youtube.com/watch?v=AbUVY16P4Ys&ab_channel=CoderOne)
+      - [Password Session Cookie Token JWT](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)
+      - [Auth0](https://auth0.com/signup?utm_source=carbonnetwork&utm_campaign=global_mult_mult_all_ciam-all_dg-other_auth0_display_carbonnetwork_static-image_3p_Auth0FT-na-na_utm2)
+      - [Glitch](https://glitch.com/signin)
+      - [Appwrite](https://cloud.appwrite.io/login)
+      - JWT
+        - [JWT](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7086734613749846017-AfxA/?utm_source=share&utm_medium=member_android)
+- Revise Things [Next Weekend]
+  - RxJS
+  - Docker
+  - Check the Video and Refresh the Thoughts
+    - [Difference Between Docker Images and Containers](https://aws.amazon.com/compare/the-difference-between-docker-images-and-containers/#:~:text=Docker%20images%20are%20immutable%2C%20which,and%20allow%20modifications%20during%20runtime.)
+- Study List - To Study
+  - [Roadmap](https://roadmap.sh/)
+  - [Read-DX](https://read-dx.addy.ie/toc)
+  - Improve Resume and Other Details
+  - First Improve Resume and Other Details
+  - Improve Website
+  - Improve LinkedIn
+  - Skill Improvement
+  - Solve One Bytebytego Problems
+  - Start Reading Documentations
+    - [Cypress API](https://docs.cypress.io/api/commands/as)
+  - Leetcode Questions
+  - Solve One Leetcode Problem
+  - One System Design Question
+    - [News Feed Facebook](https://www.greatfrontend.com/questions/system-design/news-feed-facebook)
+  - Bytebytego - YouTube (Many Resources)
+  - Angular
+    - [Angular Documentation](https://angular.io/guide/lifecycle-hooks)
+    - [Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
+  - React + Nest
+  - Docker
+  - Work Related Study/Read
+    - Backend
+    - FED
+    - Angular Documentation
+      - [Angular Lifecycle Hooks](https://angular.io/guide/lifecycle-hooks)
+      - [Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
+    - BED
+      - [Nest JS Documentation](https://nextjs.org/docs)
+      - [Storing Large Objects and Files](https://www.mongodb.com/developer/products/mongodb/storing-large-objects-and-files/)
+      - [Mongo and GraphDB Documentation](https://www.mongodb.com/docs/)
+      - [Triple Store](https://yasgui.triply.cc/)
+    - Jenkins
+    - Docker Documentation and Compare with the Company
+    - Best Code Practices
+    - CI/CD Pipeline
+    - RDF + SPARQL
+      - [W3 RDF](https://www.w3.org/RDF/)
+      - [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+    - React/NextJS Documentation
+- **Future:**
+  - Mongo and SQL Query Practice
+  - System Design Practice
+  - Managerial Practice
+  - Logs and Other Utils Practice and Read
+  - New Tech Which I Discovered
+- **9-11:**
+  - Recover
+- **12-24:**
+  - Start JS Along with Leetcode
+  - Arrange Items How to Learn
+  - Check the Intensity of the Knowledge
+  - Cover / Understand the Basics of JS Like Promises, Closures etc.
+  - Start Everything from Scratch
+  - Revise Algo Basics
+  - Do Coding Tasks Related with JS and Stuff
+- **25th June - 28th June:**
+  - Covered Basics of Algo
+  - Started Solving JS Questions
+- **29th June - 16th July:**
+  - Start and Finish JS Core + Theory
+  - Start and Continue Algo with Basics and Covering Leetcode Easy + Medium
+- **17th July - 23rd July:**
+  - React + NextJS Documentation in Depth for Interviews + New Techs Like Server Components
+  - Next 13 Adam Video + React 13 New Tech Video
+  - Build Application with TS + Testing + Pipeline + Docker etc.
+  - React and Nextjs 13 Theory
+  - Source Code Walkthrough
+  - Documentation
+  - Best Practices Latest [Jack]
+  - Apply for Interviews
+  - Start Applying for Interviews
+- **24th July - 6th New Job Preparations:**
+  - New Job Preparations
+  - Parallel 1
+    - [20 - 21] NestJS
+    - [19 - 20] NestJS
+  - **Time:**
+    - 6.30 - 1pm
+    - Read the Documentation
+    - Best Practices
+    - From Others GitHub
+    - Scaling Nest JS and Performance Optimization
+  - [22 - 23] MongoDB and Mongoose (2 / 3 days)
+    - Revise Mongo and Go Through Mongo Documentation
+    - Mongoose/Mongodb Query Options (e.g. Select, Lean, Populate, Aggregate, ...)
+    - Go Through Mongoose
+  - [24] Docker and Other Systems
+  - Parallel (4 days)
+    - Docker and Docker Compose and Kubernetes
+  - [25 - 26 - 27 - 28] Angular (3 / 4 days)
+    - Angular + Angular TS [2 days]
+      - [Advanced TypeScript Techniques](https://asimzaidi.medium.com/advanced-typescript-techniques-for-senior-react-developers-558430593e1f)
+      - [TypeScript Interview](https://medium.com/@maksim_smagin/how-good-is-your-typescript-interview-with-just-3-questions-cecdce5ce4d4)
+    - RXJS [2 days]
+    - NXJS [2 days]
+    - Later
+      - Other Examples
+      - Best Practices from Others GitHub
+      - How to Scale?
+      - Best Practices
+      - Performance
+      - How to Measure Performance
+      - RXJS Commands
+      - [RXJS Documentation](https://rxjs.dev/api)
+  - [29] Testing (3 days)
+    - Mastering Testing
+      - [Mastering Unit Tests](https://ardalis.com/mastering-unit-tests-dotnet-best-practices-naming-conventions/#:~:text=Unit%20tests%20should%20run%20independently,re%20also%20slower%20to%20run.)
+    - Good Code Commit and PR
+    - How to Write a Good Commit
+    - Good PR Review
+    - Good Description
+    - How to Create a Good Ticket
+    - Performance
+      - [Unlighthouse](https://unlighthouse.dev/)
+      - [Testing Applications with Cypress](https://www.getxray.app/blog/testing-applications-with-cypress-xray)
+  - Parallel 2
+    - **[19 - 25] Graph Database Related Things:**
+      - RDF in General
+        - [RDF](https://www.w3.org/RDF/)
+      - SPARQL
+        - [SPARQL Query](https://www.w3.org/TR/rdf-sparql-query/)
+      - Shacl
+        - [SHACL](https://www.w3.org/TR/shacl/)
+      - Different Graph Databases Like GraphDB
+        - [GraphDB](https://www.ontotext.com/products/graphdb/)
+      - Virtuoso
+        - [Virtuoso](https://virtuoso.openlinksw.com/)
+    - [26] Jenkins (.5)
+      - Small Video for the Same
+      - Learn How to Connect and Deploy a Small App
+    - [27 - 30] Bitbucket Pipelines and Entire CI-CD Pipeline
+      - Small Video for the Same
+      - How to Configure Pipelines with a Dummy CICD
+    - Saved Notes and Items
+    - SSH
+      - [SSH](https://aws.plainenglish.io/introducing-the-border0-client-portal-1dbbcf63276b)
+      - [All Your SSH and Database Servers](https://dev.to/aws-builders/all-your-ssh-and-database-servers-accessible-directly-from-your-browser-580p)
+    - NodeJS
+      - [NodeJS Development](https://amplication.com/blog/nodejs-development-all-you-need-to-know)
+      - [YouTube](https://www.youtube.com/watch?v=bRZTvCwcp20&list=PL5Lsd0YA4OMGN86vWiW7O52izu-cTxcS3&ab_channel=SoftwareDeveloperDiaries)
+    - CSS
+      - Revise New Items
+      - Container
+        - [Container](https://www.youtube.com/watch?v=ypN-Uwshc5M&list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv&index=19&t=1s&ab_channel=JackHerrington)
+      - Grid
+        - [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-introduction)
+    - NX Module Workspace [Just Know What Is It]
+      - [Nx Module Workspace](https://www.youtube.com/watch?v=OQ-Zc5tcxJE&t=64s&ab_channel=Nx-Smart%2CFast%2CExtensible)
+    - Pair Programming
+      - [Pair Programming](https://www.youtube.com/watch?v=1Rj_evBuLi4&ab_channel=Telusko)
+      - [YouTube](https://www.youtube.com/watch?v=dwUSOq-O4KU&ab_channel=PeterElbaum)
+    - Agile Methodology
+      - [Agile Methodology](https://www.youtube.com/watch?v=aKf0Qkp14qQ&ab_channel=Intellipaat)
+      - [Scrum](https://www.youtube.com/watch?v=NpCEjtKAa20&ab_channel=Telusko)
+      - [Telusko](https://www.youtube.com/watch?v=oTZd2vo3FQU&ab_channel=Telusko)
+      - [Scrum](https://www.youtube.com/watch?v=bLZ9MNwV2vE&ab_channel=KandisPorter)
+    - Middleware Service
+      - Built New APIs Using Node with Express by Integrating with Microservices Services
+    - System Design
+      - [Building a Design System with Tailwind CSS](https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba)
+    - Network + Auth + Security
+      - Browser (Authentication (JSW + Webtokens)
+        - [Authentication](https://www.youtube.com/watch?v=FVmxtmzyrSw&ab_channel=CoderOne)
+        - [CoderOne](https://www.youtube.com/watch?v=AbUVY16P4Ys&ab_channel=CoderOne)
+      - [Password Session Cookie Token JWT](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)
+      - [Auth0](https://auth0.com/signup?utm_source=carbonnetwork&utm_campaign=global_mult_mult_all_ciam-all_dg-other_auth0_display_carbonnetwork_static-image_3p_Auth0FT-na-na_utm2)
+      - [Glitch](https://glitch.com/signin)
+      - [Appwrite](https://cloud.appwrite.io/login)
+      - JWT
+        - [JWT](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7086734613749846017-AfxA/?utm_source=share&utm_medium=member_android)
+- **Machine Coding Round:**
+  - Theory
+    - Build Application + TS + Best Practices
+  - Build 2 Applications
+    - One with Next
+    - One with React
+  - **New Techs [Backend and Frontend]:**
+    - Build New Applications
+    - React Native
+    - Vue.js
+    - NodeJS
+      - Theory
+      - Build Application + TS + Best Practices
+  - **Tools:**
+    - Micro Frontend
+    - CI/CD Pipeline
+    - Docker etc.
+  - **Weekend:**
+    - System Design or S/M Design and Machine Coding...
+    - Watch Chirag Videos
+      - [Chirag Videos](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+      - [Medhat Blog](https://medhat.dev/blog/cracking-frontend-system-design-interview/)
+      - [Frontend System Design](https://www.youtube.com/playlist?list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT)
+      - [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
+  - **Machine Coding Round Revision:**
+    - JS + Performance + Machine Coding Round Revision
+  - **System Design:**
+    - Iframe
+    - Web Components
+    - React Module Federation
+    - Micro Apps/Route Base
+      - [GKCS](https://www.youtube.com/@gkcs)
+      - [ReactNYC](https://www.youtube.com/watch?v=o8THlN8hgcw&list=PLG7HKKbpE8RINBexLm8zmniqvXoxS7eqv&ab_channel=ReactNYC)
+    - How Did the Components Get Shared Between Items
+  - **Performance Revision:**
+    - Do Machine Coding Rounds
+    - Check Notes
+    - Covers Topics Like Performance + Micro Frontend + Pipelines + Docker/Kubernetes + Hosting and Other Miscellaneous During Weekend
+    - NodeJS Keep Studying During Weekend 1 Day
+- Performance
+  - S/M Design + Tailwind
+  - How the Entire System Works
+  - Design Pattern
+  - [Singleton Pattern](https://www.patterns.dev/posts/singleton-pattern)
+  - Write Along with Testing as Well
+  - Start JS
+  - Arrange JS and Interview Notes
+  - Decide What to Study With
+  - Code
+  - Solve Questions from the Links
+    - Even from the GitHub
+  - Theory
+  - Cover from Akshay Sini Videos
+  - Then from There On You Will Get Topics, Try to Code and Learn as Well
+  - Contact Dhurbesh and Shubam
+  - Arrange Notes from Mobile
+  - Clear the Notes
+  - Get the Interview Note
+  - Finish Off the Resume by Tuesday
+  - Edit Resume
+  - Create Cover Letter
+  - Create Template for New Jobs
+  - List Down Companies
+  - Sort Out Screenshot and Downloads in Files
+  - Sort the Note
+  - Read Pinned Notes and Gather Useful Info
+  - Storybook
+
+## During Emergency
+- **How To:**
+  - Read Above
+- **Plan Items What to Study:**
+- **Date - Date Mental Recovery and Small Preparations:**
+  - Prepared Resume
+  - Applied for Jobs
+  - Prepared Personal Website
+  - Prepare Stepstone
+- **Date-Date Small Preparation:**
+  - Covered React Theory and Small Practices
+  - Algo and DS Problems
+- **Date:**
+  - React Cover Machine Coding Rounds
+  - Algo and DS
+  - Behavioral Round
+  - Pinned Items
+  - Bytebyte Go
+  - About the Company
+  - About Me and What I Have Done
+  - Why Leave the Company
+  - What I Know About the Company
+  - Good Qualities of the Software Engineer
+  - Apply for More Companies
+- **Date-Date:**
+  - Replanning Things for New Job Hunting
+  - Apply for 17 Days Off
+- **Parallel:**
+  - Algo and DS [Every Day 3 Solid Questions Each]
+    - Only Leetcode Questions
+    - Read About System Design (1 Topic) and Commit
+- **React [TUES - WED - THUR - FRID]:**
+  - [TUES - WED - THUR - FRID] - 14th
+    - System Design 1 Question (Read)
+    - Machine Coding
+      - Algo and DS (3 Questions After 9) and One
+      - React One Question or
+      - JS One Question (Future)
+    - Theory
+      - Follow React Note
+      - HTTPS and Security Stuff
+        - About Myself and Expectations
+        - About the Company
+        - Read
+          - [Getting Started](https://www.fe.engineer/handbook/getting-started)
+          - [Software Engineering Interview Guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide)
+    - Algo and DS (3 Questions After 9)
+      - Leetcode
+
+How will this task evolve?
+How will this code adapt to those changes?
+What does this code encourage others to do?
+How does this code encourage other programmers to use it?
+How will I understand this code in 5 months?
+How will a busy team member jumping around grok this?
+What happens when the business becomes bigger?
+When will this code stop being good enough?
+How does it scale?
+How does it generalize?
+What hidden dependencies are there?
+
+
+- [WAPP](https://elevait.atlassian.net/wiki/spaces/INFRA/pages/5063507971/Big+Data+Infrastructure)
+- [Development General Hints](https://elevait.atlassian.net/wiki/spaces/OTS/pages/8507031538/Development+General+hints+concrete+technologies)
+- [Create Nx Workspace with Angular App](https://elevait.atlassian.net/wiki/spaces/OTS/pages/2522154080/00+-+Create+Nx+workspace+with+Angular+App)
+- [Big Data Infrastructure](https://elevait.atlassian.net/wiki/spaces/INFRA/pages/5063507971/Big+Data+Infrastructure)
+- [Docker Documentation](https://docs.docker.com/engine/)
+- [Develop an Angular 2 Application](https://elevait.atlassian.net/wiki/spaces/OTS/pages/7829913533/Develop+an+Angular+2+Application)
+- [How To](https://elevait.atlassian.net/wiki/spaces/OTS/pages/8443527134/How+To)
+- [Ask Tom on Roadmap and Planning](https://elevait.atlassian.net/browse/WA-2012)
+- [Zerotier Setup](https://docs.zerotier.com/)
+
+- Revise Things from Above
+  - Parallel
+    - [Create Europass CV](https://europa.eu/europass/en/create-europass-cv)
+    - [15 Terrible Advice for Web Developers](https://fadamakis.com/15-terrible-advice-for-web-developers-e821e95f5d18)
+    - [Module Design Pattern Example](https://hackernoon.com/a-quick-module-design-pattern-example-in-javascript?source=rss)
+    - [3rs of Software Architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture)
+    - All the Pending Links Above
+    - [PedroTech](https://www.youtube.com/watch?v=36aiUIbIAJ0&ab_channel=PedroTech)
+    - Security
+    - First Cover with Resume - Sort of Done
+      - Performance
+    - What Does It Mean?
+    - Patterns
+      - [Design Patterns](https://www.patterns.dev/posts#design-patterns)
+    - Testing
+      - Check in Testing DOC
+      - [Amigoscode](https://www.youtube.com/watch?v=z6gOPonp2t0&ab_channel=Amigoscode)
+    - Docker
+      - Build an App to Integrate for the Same
+    - NextJS
+      - CSR vs SSR
+        - [CSR vs SSR](https://www.youtube.com/watch?v=XGOxLyWFfl0&ab_channel=HusseinNasser)
+      - [JavaScript Interview Questions](https://javascript.plainenglish.io/unlock-your-potential-20-must-know-latest-javascript-interview-questions-for-2023-c2ac9fbbc082)
+    - CSS
+      - Container
+        - [Container](https://www.youtube.com/watch?v=ypN-Uwshc5M&list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv&index=19&t=1s&ab_channel=JackHerrington)
+      - Grid
+        - [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-introduction)
+    - Performance
+      - [Unlighthouse](https://unlighthouse.dev/)
+    - Testing
+      - Mastering Unit Testing
+        - [Mastering Unit Tests](https://ardalis.com/mastering-unit-tests-dotnet-best-practices-naming-conventions/#:~:text=Unit%20tests%20should%20run%20independently,re%20also%20slower%20to%20run.)
+      - [Testing Applications with Cypress](https://www.getxray.app/blog/testing-applications-with-cypress-xray)
+    - NX Module Workspace [Just Know What Is It]
+      - [Nx Module Workspace](https://www.youtube.com/watch?v=OQ-Zc5tcxJE&t=64s&ab_channel=Nx-Smart%2CFast%2CExtensible)
+    - Pair Programming
+      - [Pair Programming](https://www.youtube.com/watch?v=1Rj_evBuLi4&ab_channel=Telusko)
+      - [YouTube](https://www.youtube.com/watch?v=dwUSOq-O4KU&ab_channel=PeterElbaum)
+    - Agile Methodology
+      - [Agile Methodology](https://www.youtube.com/watch?v=aKf0Qkp14qQ&ab_channel=Intellipaat)
+      - [Scrum](https://www.youtube.com/watch?v=NpCEjtKAa20&ab_channel=Telusko)
+      - [Telusko](https://www.youtube.com/watch?v=oTZd2vo3FQU&ab_channel=Telusko)
+      - [Scrum](https://www.youtube.com/watch?v=bLZ9MNwV2vE&ab_channel=KandisPorter)
+    - How Do You Measure a Product Success?
+    - User Story?
+      - Check in Product Note
+    - Angular DOC and Angular Application
+    - TypeScript DOC
+      - [Advanced TypeScript Techniques](https://asimzaidi.medium.com/advanced-typescript-techniques-for-senior-react-developers-558430593e1f)
+      - [TypeScript Interview](https://medium.com/@maksim_smagin/how-good-is-your-typescript-interview-with-just-3-questions-cecdce5ce4d4)
+    - New Tech Which I Discovered
+    - Middleware Service
+      - Built New APIs Using Node with Express by Integrating with Microservices Services
+    - System Design
+      - [Building a Design System with Tailwind CSS](https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba)
+    - How to Improve Questions + Project Improvement
+    - Other Like
+      - Angular + Nest + Mongo
+      - HTTPS
+      - Network + Auth + Security
+        - Browser (Authentication (JSW + Webtokens)
+          - [Authentication](https://www.youtube.com/watch?v=FVmxtmzyrSw&ab_channel=CoderOne)
+          - [CoderOne](https://www.youtube.com/watch?v=AbUVY16P4Ys&ab_channel=CoderOne)
+        - [Password Session Cookie Token JWT](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)
+        - [Auth0](https://auth0.com/signup?utm_source=carbonnetwork&utm_campaign=global_mult_mult_all_ciam-all_dg-other_auth0_display_carbonnetwork_static-image_3p_Auth0FT-na-na_utm2)
+        - [Glitch](https://glitch.com/signin)
+        - [Appwrite](https://cloud.appwrite.io/login)
+        - JWT
+          - [JWT](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7086734613749846017-AfxA/?utm_source=share&utm_medium=member_android)
+  - **Angular:**
+    - [Angular 16: What's New](https://betterprogramming.pub/angular-16-whats-new-and-what-to-expect-e14e15e500f8)
+  - [Side Hustle Weekend](https://www.sidehustleweekend.com/nl)
+  - How Does JQuery Work?
+  - How is the React Router Working
+  - **My Tasks:**
+    - Make the Application for Pinned Tabs
+    - Beautify My GitHub Profile
+      - [Beautify Your GitHub Profile Like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
+    - Continue Interview
+    - Start New Items
+      - Rust
+        - [Learn Rust](https://www.rust-lang.org/learn)
+   
+    - Cleanup Evernote
+  - **Monitoring Tool:**
+    - [Signoz](https://signoz.io/docs/)
+  - **Node JS:**
+    - [Node JS](https://www.youtube.com/watch?v=8fPdzhLPhr0&ab_channel=Cododev)
+  - **Obsidian:**
+    - [Obsidian](https://www.youtube.com/watch?v=DbsAQSIKQXk&ab_channel=NoBoilerplate)
+  - **Component Driven User Interface:**
+    - [Component Driven](https://www.componentdriven.org/)
+  - **Future of Dev:**
+    - [Future of Front-End Development](https://madsbrodt.ck.page/posts/top-3-in-tech-the-future-of-front-end-development-nodejs-20-vitejs-4-13)

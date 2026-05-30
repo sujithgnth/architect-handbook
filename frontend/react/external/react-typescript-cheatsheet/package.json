@@ -1,0 +1,41 @@
+{
+  "name": "react-typescript-cheatsheet",
+  "version": "1.0.0",
+  "description": "this package.json is just for maintenance work",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typescript-cheatsheets/react.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "guides"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typescript-cheatsheets/react/issues"
+  },
+  "homepage": "https://github.com/typescript-cheatsheets/react#readme",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "format-readme": "prettier --write \"README.md\"",
+    "gen-readme": "node genReadme.mjs",
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\"",
+    "postinstall": "cd website && yarn",
+    "start": "yarn --cwd website start",
+    "build": "yarn --cwd website build",
+    "serve": "yarn --cwd website serve"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "markdown-toc": "^1.2.0",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  }
+}
