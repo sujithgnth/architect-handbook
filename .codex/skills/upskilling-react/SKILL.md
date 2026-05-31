@@ -13,13 +13,13 @@ Primary folders:
 - Exercises: `exercises/react/`
 - Performance notes: `frontend/performance/`
 - Redux notes: `redux/`
-- External references: `frontend/react/external/`
+- References: `frontend/react/references/`
 
 Workflow:
 
-1. Search `frontend/react/`, `frontend/react/external/`, `redux/`, and
+1. Search `frontend/react/`, `frontend/react/references/`, `redux/`, and
    `exercises/react/` with `rg`.
-2. Keep copied repos and third-party material under `frontend/react/external/`.
+2. Keep copied repos and third-party material under `frontend/react/references/`.
 3. Extract short, curated notes into `frontend/react/`.
 4. Add practice tasks under `exercises/react/`.
 5. Verify modern React behavior with `https://react.dev/` before writing durable

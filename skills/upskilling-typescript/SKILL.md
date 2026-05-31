@@ -15,8 +15,8 @@ Primary folders:
 - Angular typing patterns: `frontend/angular/`
 - Exercises: `exercises/javascript/`, `exercises/react/`,
   `exercises/angular/`
-- External React TypeScript reference:
-  `frontend/react/external/react-typescript-cheatsheet/`
+- React TypeScript reference:
+  `frontend/react/references/react-typescript-cheatsheet/`
 
 Workflow:
 

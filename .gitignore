@@ -1,21 +1,16 @@
 .idea
 .DS_Store
 
-# Large/personal intake material kept locally for review, not for normal commits.
-external/screenshots/*
-!external/screenshots/README.md
-external/**/*.pdf
-external/**/*.epub
-external/**/*.jpg
-external/**/*.jpeg
-external/**/*.png
-**/external/**/*.pdf
-**/external/**/*.epub
-**/external/**/*.jpg
-**/external/**/*.jpeg
-**/external/**/*.png
-external/study-list-source/*
-!external/study-list-source/README.md
-!external/study-list-source/source-readme.md
-!external/study-list-source/software-guidelines.md
-external/study-list-source/*-duplicate/
+# Raw imported study-list material kept next to its topic, but local-only.
+study-list-learn-read-tech-guidlines/
+coding-practices/cheatsheets/resources/imported-cheatsheets/
+frontend/design-system/resources/imported-ui-ux/
+frontend/resources/imported-study-list/
+frontend/react/references/resources/
+interviews/coding-interview/resources/imported-algorithms-interview/
+interviews/resources/imported-study-list/
+languages/javascript/resources/imported-study-list/
+languages/typescript/resources/imported-study-list/
+roadmaps/study-list-screenshots/
+roadmaps/study-list-source-raw/
+swe/personal-development/resources/imported-study-list/

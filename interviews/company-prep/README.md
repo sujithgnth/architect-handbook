@@ -13,4 +13,4 @@ For each company, capture:
 - questions to ask the interviewer.
 
 Raw company-prep resources from the imported study-list repo were moved to
-`../../external/interviews/coding-interview-resources/howToPrepareCompaniesInterivews/`.
+`../resources/imported-study-list/coding-interview-resources/howToPrepareCompaniesInterivews/`.

@@ -62,7 +62,6 @@
 - [Glossary](#glossary)
 - [Tooling - Language Agnostic](#tooling---language-agnostic)
 - [Codex Skills](#codex-skills)
-- [External References](#external-references)
 - [Z-Index, other repositories](#z-index-other-repositories)
 
 ## General Concerns
@@ -475,6 +474,7 @@ Please check the [this repository](https://github.com/herrera-ignacio/design_pat
 - [Growing Pains](architectures/microservices/growing-pains)
 - [Trade-Offs](architectures/microservices/tradeoffs)
 - [When to avoid](architectures/microservices/when-to-avoid)
+- [TestDriven.io microservices notes](architectures/microservices/testdrivenio-notes/README.md)
 
 > [Tools](architectures/microservices/tooling)
 
@@ -598,11 +598,13 @@ Specifics that should be considered while developing a software solution relying
 - [Coding interview approach](interviews/coding-interview/approach.md)
 - [Company preparation](interviews/company-prep/README.md)
 - [Culture fit](interviews/culture-fit/README.md)
+- [Interview guide links](interviews/interview-guides.md)
 
 ## Roadmaps
 
 - [Overview](roadmaps/README.md)
 - [Pending reads](roadmaps/pending-reads.md)
+- [Study list source reconciliation](roadmaps/study-list-source.md)
 
 ## Exercises
 
@@ -674,6 +676,7 @@ Specifics that should be considered while developing a software solution relying
   - [Backbone goals and OKRs](frontend/backbone-OKRs/README.md)
 - [Client-side storage](frontend/client-side-storage/README.md)
 - [Accessibility testing](frontend/accessibility-testing/README.md)
+- [CSR vs SSR](frontend/csr-vs-ssr/README.md)
 
 ## Glossary
 
@@ -694,12 +697,9 @@ Specifics that should be considered while developing a software solution relying
 ## Codex Skills
 
 - [Skill pack entrypoint](SKILL.md)
+- [Career mission 2026-2028 skill](skills/career-mission-2026-2028/SKILL.md)
 - [Visible reusable skill folders](skills/)
 - [Local Codex mirror](.codex/skills/)
-
-## External References
-
-- [External folder policy](external/README.md)
 
 ## Z-Index, other repositories
 

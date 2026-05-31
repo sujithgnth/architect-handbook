@@ -21,5 +21,4 @@ References:
 
 - [React documentation](https://react.dev/)
 - [Thinking in React](https://react.dev/learn/thinking-in-react)
-- [React external references](external/README.md)
-- [React TypeScript Cheatsheet](external/react-typescript-cheatsheet/README.md)
+- [React TypeScript Cheatsheet](references/react-typescript-cheatsheet/README.md)

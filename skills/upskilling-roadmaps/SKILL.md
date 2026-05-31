@@ -11,7 +11,7 @@ Preferred folder: `roadmaps/`
 
 Related source folders: `README.md`, `interviews/`, `Coding Interview/`,
 `exercises/`, `system-design/`, `frontend/`, `languages/`, `architectures/`,
-`databases/`, `coding-practices/`, and `external/`.
+`databases/`, `coding-practices/`, and topic-local `resources/` folders.
 
 Workflow:
 

@@ -22,9 +22,9 @@ knowledge in the repo, not in this skill.
    common mistakes, and decision rules.
 5. For modern framework/API behavior, verify with official docs before writing
    durable guidance.
-6. Use topic-local `external/` folders for material owned by one topic, such as
-   `frontend/react/external/`. Use top-level `external/` for broad source dumps,
-   duplicate imports, screenshots, or uncategorized references.
+6. Keep durable notes in the nearest topic folder. Put copied references under
+   topic-local `references/` folders and keep bulky raw intake under ignored
+   topic-local `resources/` folders.
 7. Do not copy large course exports, PDFs, or third-party repos into curated
    sections unless license and usefulness are clear.
 8. Run `git diff --check` after edits.
@@ -62,9 +62,10 @@ knowledge in the repo, not in this skill.
 - Models of computation: `models-of-computation/`
 - Data processing: `ds/`
 - Glossary: `glossary/`
-- External references: `external/`
+- Topic references: `frontend/react/references/` and topic-local
+  `resources/` folders for ignored raw intake
 
-React external references live under `frontend/react/external/`. Keep copied
+React references live under `frontend/react/references/`. Keep copied
 repositories there, then extract short curated notes into `frontend/react/`.
 
 When adding exercise material, keep it under `exercises/` and include goal,

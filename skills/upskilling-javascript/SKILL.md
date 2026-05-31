@@ -12,7 +12,7 @@ Primary folders:
 - Notes: `languages/javascript/`
 - Exercises: `exercises/javascript/`
 - Browser-specific APIs: `frontend/browser/`
-- External JavaScript references: `external/javascript/`
+- Imported JavaScript resources: `languages/javascript/resources/`
 
 Workflow:
 
