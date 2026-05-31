@@ -668,6 +668,8 @@ Specifics that should be considered while developing a software solution relying
 - [Atomic design](frontend/atomic-design/README.md)
 - [Design system](frontend/design-system/README.md)
 - [React](frontend/react/README.md)
+  - [Normalized frontend state](frontend/react/state-management/normalized-state.md)
+  - [Zustand micro-state management](frontend/react/state-management/zustand.md)
 - [Angular](frontend/angular/README.md)
 - [Browser platform](frontend/browser/README.md)
 - [Frontend performance](frontend/performance/README.md)

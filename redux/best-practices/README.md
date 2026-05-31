@@ -121,6 +121,8 @@ Many applications need to cache complex data in the store. That data is often re
 
 Prefer storing that data in a "normalized" form in the store. This makes it easier to look up items based on their ID and update a single item in the store, and ultimately leads to better performance patterns.
 
+See also: [Normalized frontend state](../../frontend/react/state-management/normalized-state.md).
+
 ## Model Actions as Events, Not Setters / Meaningful Action Names
 
 Redux does not care what the contents of the `action.type` feild are, it just has to be defined.

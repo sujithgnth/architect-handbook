@@ -14,8 +14,15 @@ Suggested topics:
 - hooks and custom hooks;
 - data fetching and cache boundaries;
 - routing;
+- state management and store selectors;
 - performance and memoization;
 - testing React components.
+
+Notes:
+
+- [State management](state-management/README.md)
+- [Normalized frontend state](state-management/normalized-state.md)
+- [Zustand micro-state management](state-management/zustand.md)
 
 References:
 
