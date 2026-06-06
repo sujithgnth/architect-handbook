@@ -18,6 +18,7 @@ Subfolders:
 - `api-design/`
 - `git/`
 - `refactoring/`
+- `prompting/`
 
 Workflow:
 

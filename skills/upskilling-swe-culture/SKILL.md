@@ -10,6 +10,7 @@ Repo: `/Users/sujeithgopinath/Personal/way-to-architect/`
 Primary folders:
 
 - Software engineering culture: `swe/`
+- Platform ownership and maintenance: `swe/platform-engineering/`
 - Architecture concerns: `architectures/general/`
 - Coding practices: `coding-practices/`
 - Principles: `principles/`
@@ -23,4 +24,6 @@ Workflow:
 4. Preserve practical takeaways: what to do, why it matters, and where it fails.
 5. Link laws, principles, and examples together when they explain the same
    tradeoff.
-6. Run `git diff --check` after edits.
+6. For platform ownership notes, include onboarding, on-call, migration,
+   operational knowledge, churn signals, and team-facing communication.
+7. Run `git diff --check` after edits.

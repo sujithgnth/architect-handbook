@@ -309,6 +309,7 @@ Please check the [this repository](https://github.com/herrera-ignacio/design_pat
   - [Vertical Scaling (scale up/down)](system-design/scalability/vertical-scaling)
   - [Horizontal Scaling (scale out/in)](system-design/scalability/horizontal-scaling)
 - [Load Balancing](system-design/load-balancing)
+- [Platform Engineering](system-design/platform-engineering/README.md)
 - [Caching](system-design/caching)
 - [RAID](system-design/raid)
 - [Consistency](system-design/consistency)
@@ -591,6 +592,7 @@ Specifics that should be considered while developing a software solution relying
 - [API design](coding-practices/api-design/README.md)
 - [Git](coding-practices/git/README.md)
 - [Refactoring](coding-practices/refactoring/README.md)
+- [Prompt engineering](coding-practices/prompting/README.md)
 
 ## Interviews
 
@@ -636,6 +638,7 @@ Specifics that should be considered while developing a software solution relying
 
 - [Unix Philosophy](swe/unix-philosophy)
 - [Software Engineering at Google](swe/google-software-engineering)
+- [Platform ownership and maintenance](swe/platform-engineering/README.md)
 - [Success stories](swe/success-stories)
 - [Quotes](swe/quotes.md)
 
@@ -700,6 +703,8 @@ Specifics that should be considered while developing a software solution relying
 
 - [Skill pack entrypoint](SKILL.md)
 - [Career mission 2026-2028 skill](skills/career-mission-2026-2028/SKILL.md)
+- [AI prompt engineering skill](skills/ai-prompt-engineering/SKILL.md)
+- [Addy Osmani agent skills upstream notes](skills/agent-skills-UPSTREAM.md)
 - [Visible reusable skill folders](skills/)
 - [Local Codex mirror](.codex/skills/)
 

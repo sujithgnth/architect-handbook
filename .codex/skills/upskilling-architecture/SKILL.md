@@ -17,6 +17,8 @@ Primary folders:
 - Anti-patterns: `anti-patterns/`
 - Glossary: `glossary/`
 - Related engineering culture: `swe/`
+- Related platform architecture case studies:
+  `system-design/platform-engineering/`
 
 Workflow:
 
@@ -27,6 +29,8 @@ Workflow:
    programming-model material under `paradigms/`.
 5. Capture tradeoffs, context, alternatives, and consequences, not just
    definitions.
-6. For significant decisions, suggest an ADR-style note if the user is deciding
+6. For platform architecture material, connect ownership boundaries,
+   cross-cutting concerns, and migration consequences to the system-design note.
+7. For significant decisions, suggest an ADR-style note if the user is deciding
    something durable.
-7. Run `git diff --check` after edits.
+8. Run `git diff --check` after edits.

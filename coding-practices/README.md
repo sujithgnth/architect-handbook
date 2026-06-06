@@ -10,6 +10,7 @@ frameworks.
 - [API design](api-design/README.md)
 - [Git](git/README.md)
 - [Refactoring](refactoring/README.md)
+- [Prompt engineering](prompting/README.md)
 
 Good notes in this section should answer:
 

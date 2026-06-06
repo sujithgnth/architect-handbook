@@ -10,6 +10,18 @@
 
 * Allows for **failover** mechanisms in case of nodes failure.
 
+## Platform Engineering Note
+
+Load balancing becomes a platform concern when many internal teams need to
+expose services safely and consistently. A self-service platform can hide the
+complexity of DNS, certificates, edge protection, proxy configuration, logging,
+auth, rate limiting, and cloud infrastructure behind a smaller API.
+
+See
+[platform engineering: self-service edge load balancing](../platform-engineering/README.md)
+for an Atlassian-inspired case study using an Open Service Broker, async
+provisioning, Envoy xDS, infrastructure as code, and a proxy fleet.
+
 ## Algorithms
 
 > A load balancing algorithm always tries to answer a specific problem. Among other things, the nature of the tasks, the algorithmic complexity, the hardware architecture on which the algorithms will run as well as required error tolerance, must be taken into account. Therefore **compromise must be found to best meet application-specific requirements**.

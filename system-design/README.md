@@ -10,6 +10,10 @@ System design is a broad topic. There is a vast amount of resources scattered th
 
 ![](2021-06-28-09-42-20.png)
 
+## Topics
+
+- [Platform engineering](platform-engineering/README.md)
+
 ## Examples
 
 ### System that scales to millions of users on AWS

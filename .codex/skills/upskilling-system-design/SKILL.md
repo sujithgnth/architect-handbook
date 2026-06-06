@@ -10,6 +10,8 @@ Repo: `/Users/sujeithgopinath/Personal/way-to-architect/`
 Primary folders:
 
 - System design notes and case studies: `system-design/`
+- Platform and infrastructure product notes:
+  `system-design/platform-engineering/`
 - Numbered chapter imports: `system-design/01. Scaling/` through
   `system-design/28. Stock Exchange/`
 - Databases and storage concepts: `databases/`
@@ -26,4 +28,7 @@ Workflow:
    bottlenecks, tradeoffs, and failure modes.
 5. For interview-style notes, keep diagrams and back-of-envelope estimates close
    to the written explanation.
-6. Run `git diff --check` after edits.
+6. For platform engineering notes, capture the developer-facing API, control
+   plane, data plane, provisioning flow, migration path, operational ownership,
+   and blast-radius/failure-mode analysis.
+7. Run `git diff --check` after edits.

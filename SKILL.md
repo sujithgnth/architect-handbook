@@ -1,12 +1,17 @@
 ---
 name: way-to-architect-skill-pack
-description: Use when installing, syncing, or selecting reusable skills from the way-to-architect repository for Codex work across the 2026-2028 career mission, architecture, system design, frontend, languages, databases, testing, roadmaps, exercises, and learning references.
+description: Use when installing, syncing, or selecting reusable skills from the way-to-architect repository for Codex work across AI prompting, the 2026-2028 career mission, architecture, system design, frontend, languages, databases, testing, roadmaps, exercises, and learning references.
 ---
 
 # Way To Architect Skill Pack
 
 This repository carries reusable Codex skill definitions for working with the
-way-to-architect handbook and the 2026-2028 career mission.
+way-to-architect handbook, AI prompting practices, and the 2026-2028 career
+mission.
+
+It also vendors the MIT-licensed Addy Osmani agent-skills pack under `skills/`
+for portable engineering workflow skills. Upstream provenance is recorded in
+`skills/agent-skills-UPSTREAM.md`.
 
 Visible skill sources live in `skills/`. The local Codex runtime mirror lives in
 `.codex/skills/`.

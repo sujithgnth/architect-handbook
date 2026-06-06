@@ -31,3 +31,16 @@ Dependent projects should no longer be spending progressively greater effort jus
 Having a dedicated group of experts execute the change scales better than asking for more maintenance effort from every user: experts spend some time learning the whole problem in depth and then apply that expertise to every subproblem.
 
 Forcing users to respond to churn means that every affected team does a worse job ramping up, solves their immediate problem, and then throws away that now-useless knowledge.
+
+## Platform Case Study Connection
+
+A self-service edge platform is one way to apply the churn rule. Instead of
+asking every product team to repeatedly solve load balancing, public exposure,
+auth, authorization, rate limiting, logging, and DDoS concerns, a platform team
+can centralize the expertise behind a stable API and migrate teams with reusable
+patterns.
+
+See
+[platform ownership and maintenance](../platform-engineering/README.md)
+and
+[self-service edge load balancing](../../system-design/platform-engineering/README.md).
